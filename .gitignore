@@ -1,0 +1,9 @@
+cmake-*
+build
+.venv
+.idea
+.vs
+.vscode
+json
+grammar/generated
+output
